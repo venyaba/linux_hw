@@ -1,0 +1,140 @@
+   0 cd /home
+   1 mkdir /home/animals
+   2 woami
+   3 whoami
+   4 cd -ls
+   5 cd ..\
+   6 cd ..
+   7 pwd
+   8 ls
+   9 cd /root
+  10 ls
+  11 ls -1
+  12 ls -a
+  13 history
+  14 cd ..
+  15 ls -al
+  16 cd /home
+  17 mkdir user1
+  18 ls\
+  19 ls
+  20 cd /user1
+  21 cd user1
+  22 mkdir task1
+  23 ls
+  24 cd task1
+  25 touch file.txt
+  26 \ls\
+  27 cd ..
+  28 cd..
+  29 cd ..
+  30 tree
+  31 rm animals
+  32 clear
+  33 rm -r animals
+  34 ls
+  35 tree
+  36 mkdir animals
+  37 ls
+  38 rm -r user1
+  39 ls
+  40 mkdir dogs cats fish
+  41 ls
+  42 rm cats
+  43 rm -r cats
+  44 ls
+  45 rm -r dogs
+  46 rm -r fish
+  47 cd animals
+  48 ls
+  49 mkadir dogs cats fish
+  50 mkdir dogs fish cats
+  51 ls
+  52 cd dogs 
+  53 touch pluto.txt
+  54 ls
+  55 cd animals
+  56 cd ./
+  57 ../
+  58 cd ../
+  59 cd cats
+  60 touch garfield.txt
+  61 cd ../
+  62 cd fish
+  63 touch nemo.txt
+  64 cd ../
+  65 ls
+  66 tree
+  67 cd tmp
+  68 cd /tmp
+  69 touch adam.txt
+  70 ls
+  71 cp adam.txt /home/humans
+  72 cd 
+  73 tree
+  74 cd home
+  75 cd ./
+  76 cd home
+  77 cd /home
+  78 tree
+  79 cd humans
+  80 cd /humans
+  81 cd humans
+  82 ls
+  83 rm -r humans
+  84 ls
+  85 cp adam.txt /home/humans
+  86 cd /tmp
+  87 ls
+  88 cp adam.txt /home/humans
+  89 cd ../
+  90 cd home
+  91 ls
+  92 cd humans
+  93 rm -r humans
+  94 mkdir /humans
+  95 ls
+  96 tree
+  97 mkdir humans
+  98 ls
+  99 cd tmp
+ 100 cd /tmp
+ 101 ls
+ 102 cp adam.txt ./home/humans
+ 103 cp adam.txt ../home/humans
+ 104 cd
+ 105 home
+ 106 cd home
+ 107 cd /home
+ 108 ls
+ 109 tree
+ 110 cd /tmp
+ 111 touch evA.txt
+ 112 mv evA.txt /opt/eve/eve.txt
+ 113 mv evA.txt ../opt/eve/eve.txt
+ 114 ls
+ 115 cd /opt
+ 116 ls
+ 117 cd /tmp
+ 118 mkdir ../opt/eve && mv eVa.txt
+ 119 /opt
+ 120 cd /opt
+ 121 ls
+ 122 cd eve
+ 123 ls
+ 124 pwd
+ 125 cd tmp
+ 126 cd /tmp
+ 127 ls
+ 128 cd /
+ 129 cp /tmp/evA.txt /opt/eve/eve.txt
+ 130 cd /opt/eve
+ 131 ls
+ 132 cp /opt/eve/eve.txt /home/humans
+ 133 cd home
+ 134 cd /home
+ 135 ls
+ 136 cd humans
+ 137 ls
+ 138 cd /
+ 139 history > history.txt
